@@ -2,7 +2,7 @@
 Predicting breast tumour malignancy based on patient and mammographic mass data
 
 Summary : This project aims to create a deep learning model using Tensorflow and Keras to predict whether a breast tumour is benign or malignant based on patients' personal data as well as data about the mammographic mass(the tumour) itself.
-10-fold cross validation has been used to compute the results, with accuracy being the metric. The best result obtained was an accuracy of 80.12% , where an accuracy of 80% was previously determined to be a good result by experts.
+10-fold cross validation has been used to compute the results, with accuracy being the metric. The best result obtained was an accuracy of 80.4% after 100 epochs , where an accuracy of 80% was previously determined to be a good result by experts.
 
 The actual dataset can be found in the text file 'mammographic_masses.data.txt', whereas a detailed description of the dataset's contents can be found within the text file 'mammographic_masses.names.txt'. The actual solution, including all the Python code, can be accessed by opening the file 'DeepLearning - Predicting the malignancy of a mammogram mass.ipynb', which is an IPython notebook which can be accessed via a terminal window, or through  aJupyter notebook,software platforms like Anaconda or GPU server services like Google Colab and others.
 
