@@ -1,4 +1,4 @@
-# malignant-mammography
+# Breast cancer mammography analysis
 Predicting breast tumour malignancy based on patient and mammographic mass data
 
 Summary : This project aims to create a deep learning model using Tensorflow and Keras to predict whether a breast tumour is benign or malignant based on patients' personal data as well as data about the mammographic mass(the tumour) itself.
